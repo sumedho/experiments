@@ -137,6 +137,6 @@ for i in range(0,300):
     pop = best_population(pop,new_pop, specifications)
     #print fitness(pop[0])
     
-print i, fitness(pop[0], specifications)
-print decode(pop[0])
+print(fitness(pop[0], specifications))
+print(decode(pop[0]))
 print("--- %s seconds ---" % (time.time() - start_time))
