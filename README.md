@@ -1,5 +1,8 @@
 # experiments
 
+### Matplotlib Stacked Bar Chart
+Simple function to create a stacked bar chart in Matplotlib.  
+
 ### OSX Temperature
 Added additional temperature measurements to ```osx-cpu-temp``` [link](https://github.com/lavoiesl/osx-cpu-temp). 
 Additional SMC Flags taken from SMCKit [link](https://github.com/beltex/SMCKit). My mac was running hot and I wanted a 
